@@ -9,3 +9,5 @@ Markdown (2.6.9)
 __________
 
 also I had used solr(4.10.4) as search engine
+
+Admin useaname : admin, password : admin
